@@ -72,4 +72,3 @@ resource "aws_codedeploy_deployment_group" "task-deployment-group" {
 # alarms  = ["my-alarm-name"]
 #enabled = true
 #}
-
