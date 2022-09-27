@@ -7,4 +7,3 @@ resource "aws_codecommit_repository" "TF_test_CC" {
 output "url" {
   value = aws_codecommit_repository.TF_test_CC.clone_url_http
 }
-
