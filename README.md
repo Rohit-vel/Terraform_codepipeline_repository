@@ -12,7 +12,7 @@ There are important command to be used in terraform.
 7. terraform show    # run after terraform refresh to see manual changes.
 
 
-# If you want to access you terraform created instance from your current machine the provide the your public key in pipeline's instance
+# If you want to access you terraform created instance from your current machine then provide your public key in pipeline's instance
 
-you will get key with command   : ssh-keygen
+you will get this public key with command   : ssh-keygen
 
