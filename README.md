@@ -1,6 +1,12 @@
 # Terraform_codepipeline_repository
 This is repository contains Terraform files of code pipeline.
 
+# Terraform sample code
+
+you will get all sample code for terraform on below link 
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
 There are important command to be used in terraform.
 
 1. terraform init   # To initiate your directory for terraform. 
@@ -16,3 +22,6 @@ There are important command to be used in terraform.
 
 you will get this public key with command   : ssh-keygen
 
+# Regarding instance.tf
+
+In the instance.tf in key creation part I am used file function which is for metion the key file from outside that instance.tf file
