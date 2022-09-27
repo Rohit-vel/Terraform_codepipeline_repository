@@ -35,4 +35,3 @@ variable "deployment_group" {
   type        = string
   description = "This is delpoyment group of deployment application"
 }
-
